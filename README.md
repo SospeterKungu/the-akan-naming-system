@@ -14,6 +14,7 @@ This is identifying what this program should do before determining how to make i
 
 ### Technologies Used
 This program is created using Atom, Git, Github and is viewable on any browser.
+The formula to check the day of the week was obtained from stackoverflow
 
 ### Contact Information.
 The link to gitbub live pages is https://sospeterkungu.github.io/the-akan-naming-system/
@@ -21,4 +22,4 @@ The developer can be contacted through email: sospeter2030@gmail.com or Mobile t
 
 
 ### License and Copyrigth information
-This system can be used by any user who intends to know their possible Akan name and more specifically which day of the week they were born. Any update of the site must however be authorized in writing by the Author. 
+This system can be used by any user who intends to know their possible Akan name and more specifically which day of the week they were born. Any update of the site must however be authorized in writing by the Author.

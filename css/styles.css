@@ -1,0 +1,20 @@
+container-fluid {
+  background-color: darkgray;
+}
+h1 {
+ color: red;
+ background-color: brown;
+ text-align: center;
+ text-shadow: 200px;
+}
+small {
+  font-size: 20px;
+  color: black;
+}
+.pagebg {
+  background: lightgray;
+}
+.bottomparagraph {
+  padding: 20px;
+  text-align: center;
+}
